@@ -1,0 +1,2 @@
+C:\Users\jakub\source\repos\AntiRecoil2\AntiRecoil2\bin\Release\net8.0-windows\win-x64\publish\AntiRecoil2.pdb
+C:\Users\jakub\source\repos\AntiRecoil2\AntiRecoil2\bin\Release\net8.0-windows\win-x64\publish\AntiRecoil2.exe

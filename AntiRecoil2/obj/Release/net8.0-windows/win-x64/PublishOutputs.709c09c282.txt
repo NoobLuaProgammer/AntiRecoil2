@@ -1,0 +1,9 @@
+C:\Users\jakub\source\repos\AntiRecoil2\publish\AntiRecoil2.exe
+C:\Users\jakub\source\repos\AntiRecoil2\publish\AntiRecoil2.dll
+C:\Users\jakub\source\repos\AntiRecoil2\publish\AntiRecoil2.deps.json
+C:\Users\jakub\source\repos\AntiRecoil2\publish\AntiRecoil2.runtimeconfig.json
+C:\Users\jakub\source\repos\AntiRecoil2\publish\AntiRecoil2.pdb
+C:\Users\jakub\source\repos\AntiRecoil2\publish\SharpHook.dll
+C:\Users\jakub\source\repos\AntiRecoil2\publish\SharpHook.Reactive.dll
+C:\Users\jakub\source\repos\AntiRecoil2\publish\System.Reactive.dll
+C:\Users\jakub\source\repos\AntiRecoil2\publish\uiohook.dll

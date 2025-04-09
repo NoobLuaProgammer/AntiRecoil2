@@ -1,0 +1,3 @@
+C:\Users\jakub\source\repos\AntiRecoil2\AntiRecoil2\bin\Release\net8.0-windows\publish\win-x64\AntiRecoil2.pdb
+C:\Users\jakub\source\repos\AntiRecoil2\AntiRecoil2\bin\Release\net8.0-windows\publish\win-x64\uiohook.dll
+C:\Users\jakub\source\repos\AntiRecoil2\AntiRecoil2\bin\Release\net8.0-windows\publish\win-x64\AntiRecoil2.exe
